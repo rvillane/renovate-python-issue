@@ -1,0 +1,2 @@
+# python:3-alpine
+FROM python@sha256:52ce18e9d7a2556a3632d093f8f77700307735b7e7049dce3339c9bf9221ae7f
